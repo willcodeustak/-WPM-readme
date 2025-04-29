@@ -1660,7 +1660,7 @@ video {
                                 
                                 
                                         <div class="font-mono text-xs font-medium tracking-wide" style="color: #93e8d3;">
-                                            Current streak: 2 days
+                                            Current streak: 4 days
                                         </div>
                                     
                                 </div>
@@ -1746,7 +1746,7 @@ video {
                                 </div>
                                 <div class="py-1 text-center font-mono text-4xl font-medium tracking-wider"
                                     style="color: #a288d9;">
-                                    145
+                                    146
                                 </div>
                                 <div class="py-1 text-center font-mono text-2xl font-medium tracking-wider"
                                     style="color: #a288d9;">
